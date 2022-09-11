@@ -1,0 +1,37 @@
+Read the dataset
+
+Find shape and Data Types
+
+Information and Summary
+
+Find unnecessary columns and deal with it
+
+find the NaN point in dataset
+
+Fill the NaN values if required
+
+Find unique values in all the columns
+
+Find the values of each columns Q-9: How many customer took tech support and show on pie chart
+
+Plot the churned customer and non-churned customer
+
+Convert String values to Numeric values
+ 
+Split the features and Target values
+
+Data Splitting into training and testing dataset with 80:20 Ratio
+
+Apply feature Scaling into training dataset
+
+Select the best algorithm and apply with training dataset
+
+Analyse the model accuracy
+
+Model validation
+
+User testing
+
+Summarize the accuracy
+
+Conclusion
